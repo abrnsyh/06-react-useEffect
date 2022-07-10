@@ -1,5 +1,5 @@
-import CatItem from './components/CatItem';
 import CatList from './components/CatList';
+
 
 
 
